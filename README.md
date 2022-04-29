@@ -2,7 +2,8 @@
 
 ## Resúmenes de las clases:
 
-- [Clase 32 - 21/04/2022](resumenes/20220426_clase_32.md)
+- [Clase 33 - 28/04/2022](resumenes/20220428_clase_33.md)
+- [Clase 32 - 26/04/2022](resumenes/20220426_clase_32.md)
 - [Clase 31 - 21/04/2022](resumenes/20220421_clase_31.md)
 - [Clase 30 - 19/04/2022](resumenes/20220419_clase_30.md)
 - [Clase 29 - 12/04/2022](resumenes/20220412_clase_29.md)
