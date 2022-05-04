@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "title": "Actualizado con PUT",
+      "author": "typicode",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Modificado con PUT",
+      "author": "typicode"
+    },
+    {
+      "title": "Creado con POST",
+      "author": "By Ale Busi",
+      "desc": "estamos creando un posteo con metodo POST. utilizando JSON-SERVER",
+      "img": "https://picsum.photos/id/1/200/300",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
