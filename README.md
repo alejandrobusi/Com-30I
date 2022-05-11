@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 36 - 10/05/2022](resumenes/20220510_clase_36.md)
 - [Clase 34 - 03/05/2022](resumenes/20220503_clase_34.md)
 - [Clase 33 - 28/04/2022](resumenes/20220428_clase_33.md)
 - [Clase 32 - 26/04/2022](resumenes/20220426_clase_32.md)
