@@ -2,7 +2,9 @@
 
 ## Resúmenes de las clases:
 
-- [Clase 36 - 12/05/2022](resumenes/20220512_clase_37.md)
+- [Clase 39 - 19/05/2022 - Retrospectiva - Repaso React](resumenes/20220519_clase_39.md)
+- [Clase 38 - 17/05/2022 - Presentación 2do Proyecto: Javascript](resumenes/20220517_clase_38.md)
+- [Clase 37 - 12/05/2022](resumenes/20220512_clase_37.md)
 - [Clase 36 - 10/05/2022](resumenes/20220510_clase_36.md)
 - [Clase 34 - 03/05/2022](resumenes/20220503_clase_34.md)
 - [Clase 33 - 28/04/2022](resumenes/20220428_clase_33.md)
