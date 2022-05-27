@@ -2,7 +2,7 @@
 
 ## Resúmenes de las clases:
 
-- [Clase 41 - 26/05/2022 - States](resumenes/20220526_clase_41.md)
+- [Clase 41 - 26/05/2022 - States - useState() - useEffect() - Ejemplo Contador - React Bootstrap](resumenes/20220526_clase_41.md)
 - [Clase 40 - 24/05/2022 - Repaso props - Desestructuración de objetos - Intro a Hooks](resumenes/20220524_clase_40.md)
 - [Clase 39 - 19/05/2022 - Retrospectiva - Repaso React](resumenes/20220519_clase_39.md)
 - [Clase 38 - 17/05/2022 - Presentación 2do Proyecto: Javascript](resumenes/20220517_clase_38.md)
