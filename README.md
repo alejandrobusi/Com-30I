@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 42 - 31/05/2022 - Repaso React Bootstrap - Uso de una API (Búsqueda de Gifs)](resumenes/20220531_clase_42.md)
 - [Clase 41 - 26/05/2022 - States - useState() - useEffect() - Ejemplo Contador - React Bootstrap](resumenes/20220526_clase_41.md)
 - [Clase 40 - 24/05/2022 - Repaso props - Desestructuración de objetos - Intro a Hooks](resumenes/20220524_clase_40.md)
 - [Clase 39 - 19/05/2022 - Retrospectiva - Repaso React](resumenes/20220519_clase_39.md)
