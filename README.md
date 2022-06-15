@@ -2,9 +2,10 @@
 
 ## Resúmenes de las clases:
 
-- [Clase 45 - 09/03/2022 - Formularios en React](resumenes/20220609_clase_45.md)
-- [Clase 44 - 06/03/2022 - React Router - useNavigate() - Rutas Protegidas](resumenes/20220607_clase_44.md)
-- [Clase 43 - 02/03/2022 - Consumo de APIs - filtrado del resultado - Intro a React Router](resumenes/20220602_clase_43.md)
+- [Clase 46 - 14/06/2022 - Repaso integrador React - Axios](resumenes/20220614_clase_46.md)
+- [Clase 45 - 09/06/2022 - Formularios en React](resumenes/20220609_clase_45.md)
+- [Clase 44 - 06/06/2022 - React Router - useNavigate() - Rutas Protegidas](resumenes/20220607_clase_44.md)
+- [Clase 43 - 02/06/2022 - Consumo de APIs - filtrado del resultado - Intro a React Router](resumenes/20220602_clase_43.md)
 - [Clase 42 - 31/05/2022 - Repaso React Bootstrap - Uso de una API (Búsqueda de Gifs)](resumenes/20220531_clase_42.md)
 - [Clase 41 - 26/05/2022 - States - useState() - useEffect() - Ejemplo Contador - React Bootstrap](resumenes/20220526_clase_41.md)
 - [Clase 40 - 24/05/2022 - Repaso props - Desestructuración de objetos - Intro a Hooks](resumenes/20220524_clase_40.md)
