@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 48 - 21/06/2022 - Repaso backend - dotenv - cors - morgan](resumenes/20220621_clase_48.md)
 - [Clase 47 - 16/06/2022 - Intro a backend - nodemon - express - Postman](resumenes/20220616_clase_47.md)
 - [Clase 46 - 14/06/2022 - Repaso integrador React - Axios](resumenes/20220614_clase_46.md)
 - [Clase 45 - 09/06/2022 - Formularios en React](resumenes/20220609_clase_45.md)
