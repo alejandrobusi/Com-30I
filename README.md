@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 50 - 28/06/2022 - Solución de problemas de MongoDB - async/await - Modelos y esquemas de mongoose ](resumenes/20220628_clase_50.md)
 - [Clase 49 - 23/06/2022 - Repaso backend - Estructura de archivos - Parámetros por URL - Concepto de Middleware - Intro a MongoDB y mongoose ](resumenes/20220623_clase_49.md)
 - [Clase 48 - 21/06/2022 - Repaso backend - dotenv - cors - morgan](resumenes/20220621_clase_48.md)
 - [Clase 47 - 16/06/2022 - Intro a backend - nodemon - express - Postman](resumenes/20220616_clase_47.md)
