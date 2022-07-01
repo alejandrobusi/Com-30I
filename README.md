@@ -2,7 +2,7 @@
 
 ## Resúmenes de las clases:
 
-- [Clase 51 - 30/06/2022 - Validaciones de esquema - Obtener datos de la DB ](resumenes/20220630_clase_51.md)
+- [Clase 51 - 30/06/2022 - Validaciones de esquema - Obtener datos de la DB - validaciones a nivel ruta ](resumenes/20220630_clase_51.md)
 - [Clase 50 - 28/06/2022 - Solución de problemas de MongoDB - async/await - Modelos y esquemas de mongoose ](resumenes/20220628_clase_50.md)
 - [Clase 49 - 23/06/2022 - Repaso backend - Estructura de archivos - Parámetros por URL - Concepto de Middleware - Intro a MongoDB y mongoose ](resumenes/20220623_clase_49.md)
 - [Clase 48 - 21/06/2022 - Repaso backend - dotenv - cors - morgan](resumenes/20220621_clase_48.md)
