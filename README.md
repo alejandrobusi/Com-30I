@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 53 - 07/07/2022 - Repaso integral backend + frontend ](resumenes/20220707_clase_53.md)
 - [Clase 52 - 05/07/2022 - Validaciones custom - Hasheo de contraseña ](resumenes/20220705_clase_52.md)
 - [Clase 51 - 30/06/2022 - Validaciones de esquema - Obtener datos de la DB - validaciones a nivel ruta ](resumenes/20220630_clase_51.md)
 - [Clase 50 - 28/06/2022 - Solución de problemas de MongoDB - async/await - Modelos y esquemas de mongoose ](resumenes/20220628_clase_50.md)
