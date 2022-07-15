@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 55 - 14/07/2022 - Login con JWT ](resumenes/20220714_clase_55.md)
 - [Clase 54 - 12/07/2022 - Continuación proyecto integrador de backend y frontend - validaciones de forms en el front - hacemos un login (back) ](resumenes/20220712_clase_54.md)
 - [Clase 53 - 07/07/2022 - Repaso integral backend + frontend ](resumenes/20220707_clase_53.md)
 - [Clase 52 - 05/07/2022 - Validaciones custom - Hasheo de contraseña ](resumenes/20220705_clase_52.md)
