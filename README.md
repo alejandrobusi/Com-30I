@@ -2,6 +2,7 @@
 
 ## Resúmenes de las clases:
 
+- [Clase 57 - 09/08/2022 - PRESENTACIÓN DE PROYECTOS FINALES ](resumenes/20220809_clase_57.md)
 - [Clase 56 - 19/07/2022 - CLASE FINAL: Deploy de front y back en Netlify y Heroku ](resumenes/20220719_clase_56.md)
 - [Clase 55 - 14/07/2022 - Login con JWT ](resumenes/20220714_clase_55.md)
 - [Clase 54 - 12/07/2022 - Continuación proyecto integrador de backend y frontend - validaciones de forms en el front - hacemos un login (back) ](resumenes/20220712_clase_54.md)
